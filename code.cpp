@@ -1,5 +1,7 @@
 #include <iostream>
 
+int fabonacii(int n);
+
 int main()
 {
 	int x,y;
@@ -10,5 +12,10 @@ int main()
 
 	// return
 	return 0;
+}
+
+int fabonacii(int n)
+{
+;
 }
 
