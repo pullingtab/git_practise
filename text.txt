@@ -11,3 +11,8 @@ new line is added.
 
 just wanna change the text.
 jjj
+
+
+/usr/bin/bash: date/T: No such file or directory
+date: invalid date ¿/T¿
+
