@@ -16,6 +16,6 @@ int main()
 
 int fabonacii(int n)
 {
-;
+	return n + fabonacii(n-1);
 }
 
