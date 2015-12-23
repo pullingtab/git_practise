@@ -16,6 +16,10 @@ int main()
 
 int fabonacii(int n)
 {
-	return n + fabonacii(n-1);
+	int n = 0;
+	for(int i = 1; i <= n ; ++i)
+		n += i;
+
+	return n;
 }
 
